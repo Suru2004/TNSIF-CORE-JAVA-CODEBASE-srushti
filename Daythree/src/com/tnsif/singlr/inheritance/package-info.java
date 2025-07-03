@@ -1,0 +1,1 @@
+package com.tnsif.singlr.inheritance;
