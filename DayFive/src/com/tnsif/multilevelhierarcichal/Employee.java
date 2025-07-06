@@ -1,6 +1,6 @@
 package com.tnsif.multilevelhierarcichal;
 
-public class Employee {
+public class Employee extends Person {
 	//data members
 		private int empId;
 		private float salary;
@@ -16,7 +16,7 @@ public class Employee {
 
 
 		public Employee(String name, String city,int empId, float salary, String dept) {
-			super( name,  city);
+			super();
 			this.empId = empId;
 			this.salary = salary;
 			this.dept = dept;

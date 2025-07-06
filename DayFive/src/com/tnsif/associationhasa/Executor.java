@@ -1,6 +1,6 @@
 package com.tnsif.associationhasa;
 
-public class Executor extends Person{
+public class Executor {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
