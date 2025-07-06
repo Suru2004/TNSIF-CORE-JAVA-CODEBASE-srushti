@@ -20,7 +20,7 @@ public class FinalClassDemo {
 
 	public static void main(String[] args) {
 		
-		FinalClass f=new FinalClass();
+		FinalClassDemo f=new FinalClassDemo();
 		f.show();
 
 	}
