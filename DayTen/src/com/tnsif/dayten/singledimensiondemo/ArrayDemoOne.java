@@ -10,7 +10,8 @@ class ArrayDemoOne {
 			}
 		}
 		
-		//varible argument function
+		//varible argument functionr
+		
 		
 		public static int getSum(int... n)
 		{
@@ -82,3 +83,12 @@ class ArrayDemoOne {
 		}
 
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
