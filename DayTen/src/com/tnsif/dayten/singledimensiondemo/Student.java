@@ -1,21 +1,34 @@
 package com.tnsif.dayten.singledimensiondemo;
 
 public class Student {
-
+	private int rollNo;
+	private String name;
 	
-	private int rollno;
-		public int getRollno() {
-		return rollno;
+	//para constructor
+	public Student(int rollNo, String name) {
+		super();
+		this.rollNo = rollNo;
+		this.name = name;
 	}
-	public void setRollno(int rollno) {
-		this.rollno = rollno;
+
+	//getter and setter 
+	public int getRollNo() {
+		return rollNo;
 	}
+
+	public void setRollNo(int rollNo) {
+		this.rollNo = rollNo;
+	}
+
 	public String getName() {
 		return name;
 	}
+
 	public void setName(String name) {
 		this.name = name;
 	}
-		private String name;
-	}
-
+	
+	
+	
+}
+	

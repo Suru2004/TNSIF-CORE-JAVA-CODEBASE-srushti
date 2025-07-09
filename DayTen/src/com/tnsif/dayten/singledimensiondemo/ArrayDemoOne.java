@@ -1,5 +1,5 @@
 package com.tnsif.dayten.singledimensiondemo;
-class ArrayDemoOne {
+class ArrayOperations{
 	//print int array 
 		static void printArray(int[] arr)
 		{
