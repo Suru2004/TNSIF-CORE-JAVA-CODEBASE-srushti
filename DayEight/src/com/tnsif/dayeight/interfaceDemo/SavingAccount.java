@@ -6,7 +6,7 @@ public class SavingAccount extends Customer implements Bank {
 	
 	//para constructor 
 	public SavingAccount(String name, String city, int accNo, float balance) {
-		super(name, city);
+		super();
 		this.accNo = accNo;
 		this.balance = balance;
 	}

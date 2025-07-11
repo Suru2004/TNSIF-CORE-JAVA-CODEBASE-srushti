@@ -1,7 +1,7 @@
 package com.tnsif.JaggedArrayDemo;
 
-public class JaggedArray {
-	{
+ class JaggedArray {
+	
 		static void printArray(int c[][]) {
 			System.out.println("Array of elements are as follows");
 			for (int i=0; i<=c.length;i++)
